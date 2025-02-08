@@ -11,6 +11,9 @@
 
 This data analysis project aims to uncover the story of educational inequality across the globe by analyzing trends, comparing regions, and exploring the factors that may contribute to disparities. Over the period from 2010 to 2021, we are investigating how inequality in education has evolved in different countries and regions, with a special focus on identifying who is being left behind and why some areas experience greater inequality than others.
 
+![newplot (2)](https://github.com/user-attachments/assets/a4262115-7598-4556-b8ed-3d7a6c12772c)
+
+
 ### Data Sources
 
 The primary dataset used for this analysis is the "Inequality in Education Around the World.csv" file, containing historical data covering a range of indicators pertaining to educational inequality on a global scale. The dataset's prominent components include: ISO3, Country, Human Development Groups, UNDP Developing Regions, HDI Rank (2021), and Inequality in Education spanning the years 2010 to 2021.
@@ -38,6 +41,9 @@ EDA Involved exploring the Inequality in Education Data to answer key question, 
 
 - Is there a correlation between a country’s HDI rank and its educational inequality in 2021?
 - Which regions and countries experienced the highest or lowest educational inequality in 2021?
+
+![newplot (1)](https://github.com/user-attachments/assets/9de659fe-cfdf-4d69-8d9f-ba6042f302ee)
+
 
 ### Data Analysis
 
@@ -68,3 +74,6 @@ Based on the analysis, we recommend the following:
 ### References
 
 1. Plotly for data analysis and visualization
+
+😄
+💻
